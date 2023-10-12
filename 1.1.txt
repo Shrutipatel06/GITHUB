@@ -1,0 +1,9 @@
+//This Program is prepared by 23TCEMKU Shruti Patel.
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+printf("Hello World");
+getch();
+}
